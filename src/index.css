@@ -2626,6 +2626,7 @@ p{
     align-items: center;
     gap: 15px;
     color:#fff;
+    justify-content: center;
 }
 .fl{
     display: inline-flex;
